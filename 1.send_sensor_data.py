@@ -7,7 +7,7 @@ from gpiozero import MotionSensor
 from azure.iot.device import Message
 from azure.iot.device.aio import IoTHubDeviceClient
 
-CONNECTION_STRING = "HostName=***.azure-devices.net;DeviceId=***;SharedAccessKey=i598CK6++***"
+CONNECTION_STRING = "HostName=***.azure-devices.net;DeviceId=***;SharedAccessKey=***"
 
 DELAY = 5
 TEMPERATURE = 20.0
