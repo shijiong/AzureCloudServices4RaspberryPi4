@@ -10,5 +10,5 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 ![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/2.CapureImage.png)
 
 # 3. Azure Cloud Services for Raspberry Pi 4: How to send telemetry to Azure Storage Table
-The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54370.azure-cloud-services-for-raspberry-pi-4-how-to-capture-and-send-image-to-azure-blob-storage.aspx
+The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54372.azure-cloud-services-for-raspberry-pi-4-how-to-send-telemetry-to-azure-storage-table.aspx
 ![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/3.TableStorage.png)
