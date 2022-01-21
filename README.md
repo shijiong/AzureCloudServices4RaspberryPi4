@@ -20,3 +20,7 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 # 5. Azure Cloud Services for Raspberry Pi 4: How to detect faces with Azure Computer Vision Services  
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54374.azure-cloud-services-for-raspberry-pi-4-how-to-detect-faces-with-azure-computer-vision-services.aspx  
 ![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/5.ComputerVision-FaceAPI.jpg)  
+
+# 6. Azure Cloud Services for Raspberry Pi 4: How to implement OCR with Azure Computer Vision Services  
+The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54378.azure-cloud-services-for-raspberry-pi-4-how-to-implement-ocr-with-azure-computer-vision-services.aspx  
+![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/6.ComputerVision-OCR.jpg)  
