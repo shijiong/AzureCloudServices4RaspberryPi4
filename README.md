@@ -24,3 +24,7 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 # 6. Azure Cloud Services for Raspberry Pi 4: How to implement OCR with Azure Computer Vision Services  
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54378.azure-cloud-services-for-raspberry-pi-4-how-to-implement-ocr-with-azure-computer-vision-services.aspx  
 ![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/6.ComputerVision-OCR.jpg)  
+
+# 7. Azure Cloud Services for Raspberry Pi 4: How to control your devices with IoTHub Direct Method  
+The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54381.azure-cloud-services-for-raspberry-pi-4-how-to-control-your-devices-with-iothub-direct-method.aspx  
+![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/7.DirectMethod.jpg)  
