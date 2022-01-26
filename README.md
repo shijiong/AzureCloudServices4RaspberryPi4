@@ -28,3 +28,7 @@ The full instruction is available on TechNet: https://social.technet.microsoft.c
 # 7. Azure Cloud Services for Raspberry Pi 4: How to control your devices with IoTHub Direct Method  
 The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54381.azure-cloud-services-for-raspberry-pi-4-how-to-control-your-devices-with-iothub-direct-method.aspx  
 ![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/7.DirectMethod.jpg)  
+
+# 8. Azure Cloud Services for Raspberry Pi 4: How to update digital twin on your device  
+The full instruction is available on TechNet: https://social.technet.microsoft.com/wiki/contents/articles/54383.azure-cloud-services-for-raspberry-pi-4-how-to-update-digital-twin-on-your-device.aspx  
+![image](https://github.com/shijiong/AzureCloudServices4RaspberryPi4/blob/main/8.DigitalTwin.jpg)  
